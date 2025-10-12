@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Primary"
+  "cssTheme": "Primary",
+  "textFontFamily": "Arial Rounded MT",
+  "baseFontSize": 17
 }
