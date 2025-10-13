@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Bahamut"
             }
+          },
+          {
+            "id": "a11a0b601175051e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Götter (draft)/Bahamut.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bahamut"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "fd55890fd631b2cc",
@@ -166,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,19 +195,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "852315d61882799c",
+  "active": "a11a0b601175051e",
   "lastOpenFiles": [
+    "Organisationen/Krallen der Gerechtigkeit.md",
+    "Götter (draft)/Bahamut.md",
+    "Götter (draft)/Cyric.md",
+    "Götter (draft)/Die toten Drei.md",
     "Götter (draft)/Mask.md",
+    "Index.md",
+    "Die drei Reiche/Indogia.md",
+    "Die drei Reiche/Sirdoria.md",
+    "Die drei Reiche/Vaylpis.md",
+    "Untitled.md",
+    "Organisationen",
     "Götter (draft)/Umberlee.md",
     "Götter (draft)/Leira.md",
-    "Götter (draft)/Cyric.md",
-    "Götter (draft)/Bahamut.md",
-    "Götter (draft)/Die toten Drei.md",
-    "Die drei Reiche/Vaylpis.md",
-    "Die drei Reiche/Sirdoria.md",
-    "Die drei Reiche/Indogia (draft).md",
     "Geschichte/BBM.md",
-    "Index.md",
     "Das BBM.md",
     "Das Ereignis™.md",
     "NAVIC.md",
@@ -216,7 +234,6 @@
     "Untitled.canvas",
     "2025-10-12.md",
     "Untitled.base",
-    "Untitled 1.base",
     "test_nondraft.md"
   ]
 }
