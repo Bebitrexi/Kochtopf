@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/BBM.md",
+                "file": "Götter (draft)/Bahamut.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BBM"
+              "title": "Bahamut"
             }
           }
         ]
@@ -180,24 +180,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "097f1c71271ca64d",
+  "active": "852315d61882799c",
   "lastOpenFiles": [
-    "Index.md",
+    "Götter (draft)/Mask.md",
+    "Götter (draft)/Umberlee.md",
+    "Götter (draft)/Leira.md",
+    "Götter (draft)/Cyric.md",
+    "Götter (draft)/Bahamut.md",
+    "Götter (draft)/Die toten Drei.md",
+    "Die drei Reiche/Vaylpis.md",
+    "Die drei Reiche/Sirdoria.md",
+    "Die drei Reiche/Indogia (draft).md",
     "Geschichte/BBM.md",
+    "Index.md",
     "Das BBM.md",
     "Das Ereignis™.md",
     "NAVIC.md",
     "Geschichte/Krieg der Götter.md",
-    "Götter/Mask.md",
-    "Götter/Umberlee.md",
-    "Götter/Bahamut.md",
-    "Götter/Leira.md",
-    "Götter/Cyric.md",
-    "Götter/Die toten Drei.md",
-    "Die drei Reiche/Indogia.md",
-    "Die drei Reiche/Sirdoria.md",
-    "Götter",
-    "Die drei Reiche/Vaylpis.md",
+    "Götter (draft)",
     "Die drei Reiche",
     "Geschichte",
     "bilder/NAVIC- Karte.png",
