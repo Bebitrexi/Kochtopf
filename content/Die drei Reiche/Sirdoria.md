@@ -1,3 +1,6 @@
 Haupstädte: Sivel, Tover
 
-### Königsfamilie
+### Klima und Vegetation
+
+- gemäßigtes Klima
+- überwiegend Laubwälder mit langen Wiesenlandschaften dazwischen
