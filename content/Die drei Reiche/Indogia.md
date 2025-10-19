@@ -8,3 +8,23 @@ Haupstadt: Yloit
 
 - verehren seit jeher den Drachen-Gott Bahamut
 
+
+### Klima und Vegetation
+
+- subtropisches Klima
+- Wüste mit vereinzelten Oasen und Sandsteinfelsen
+
+![[landscape2.jpg]]
+
+![[Oasis.jpg]]
+
+
+### Architektur (Hauptstadt)
+
+![[City-Bazaare.jpg]]
+
+![[City-Hafen2.jpg]]
+
+![[City-Hafen.jpg]]
+
+![[City.jpg]]

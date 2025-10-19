@@ -18,8 +18,6 @@
 
 - [[Sirdoria]]: gemäßigtes Klima, überwiegend Laubwälder mit langen Wiesenlandschaften dazwischen
 - [[Vaylpis]]: subpolares Klima im Süden und gemäßigtes Klima im Norden der Inseln, Nadelwälder und viele tote "Landschaften"
-- [[Indogia]]: subtropisches Klima, Wüste mit vereinzelten Oasen und großen Sandbergen
-
 
 
 
