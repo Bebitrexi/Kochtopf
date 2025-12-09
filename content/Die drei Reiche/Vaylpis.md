@@ -5,7 +5,7 @@ Haupstadt: Blaastead
 ### Königsfamilie
 
 - bestehend aus der Blutlinie *Vaylpis*
-	- *Vaylpis* war der Name des Yuan-Ti (Schlangenvolk), welcher die alte Regierung von Kritia stürzte
+	- *Vaylpis* war der Name des Yuan-Ti (Schlangenmensch), welcher die alte Regierung von Kritia stürzte
 
 
 ### Klima und Vegetation

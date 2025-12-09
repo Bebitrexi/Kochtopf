@@ -1,4 +1,4 @@
-### ~The adventure begins~
+### *The adventure begins*
 
 - Jahr: 1750
 - Treffpunkt eurer Gruppe: Auf einem Schiff voll mit Anhängern des Gottes Bhaal. Sozusagen ein schippernder Tempel.
