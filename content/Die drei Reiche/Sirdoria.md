@@ -14,7 +14,7 @@ Haupstädte: Sivel, Tover
 
 ![[Ruins.jpeg]]
 
-![[landscape.jpeg]]
+![[lanscape.jpeg]]
 
 
 ### Verschiedene Stadttypen 

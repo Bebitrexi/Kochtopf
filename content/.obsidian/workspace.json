@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Die drei Reiche/Vaylpis.md",
+                "file": "Die drei Reiche/Sirdoria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vaylpis"
+              "title": "Sirdoria"
             }
           }
         ],
@@ -225,19 +225,20 @@
   },
   "active": "8be2c5df068a198b",
   "lastOpenFiles": [
-    "Die drei Reiche/Sirdoria.md",
-    "Die drei Reiche/Vaylpis.md",
     "Die drei Reiche/Indogia.md",
+    "Die drei Reiche/Vaylpis.md",
+    "bilder/lanscape.jpeg",
+    "bilder/landscape.jpeg",
+    "bilder/landscape2.jpg",
+    "Die drei Reiche/Sirdoria.md",
+    "bilder/Oasis.jpg",
+    "bilder/Oase.jpeg",
     "bilder/Dorf.jpeg",
     "Herunterladen (8).jpeg",
     "bilder/Baumhaus.jpeg",
     "Das Ereignis™.md",
     "bilder/Hafen.jpeg",
     "bilder/hafen.jpeg",
-    "bilder/landscape.jpeg",
-    "Herunterladen (13).jpeg",
-    "bilder/Ruins.jpeg",
-    "bilder/forest.jpeg",
     "NAVIC.md",
     "Geschichte/BBM.md",
     "Geschichte/Krieg der Götter.md",
@@ -252,7 +253,6 @@
     "Charaktere (draft)",
     "Index.md",
     "Organisationen (draft)/Krallen der Gerechtigkeit.md",
-    "bilder/NAVIC.png",
     "conflict-files-obsidian-git.md",
     "Organisationen (draft)",
     "Das BBM.md",

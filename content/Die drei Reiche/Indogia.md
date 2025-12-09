@@ -16,7 +16,7 @@ Haupstadt: Yloit
 
 ![[landscape2.jpg]]
 
-![[Oasis.jpg]]
+![[Oase.jpeg]]
 
 
 ### Architektur (Hauptstadt)
