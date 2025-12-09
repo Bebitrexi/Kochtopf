@@ -12,3 +12,19 @@ Haupstadt: Blaastead
 
 - subpolares Klima im Süden und gemäßigtes Klima im Norden der Inseln
 - Nadelwälder und viele tote "Landschaften"
+
+![[mountains.jpeg]]
+
+![[landscape.jpeg]]
+
+![[Herunterladen (14).jpeg]]
+
+
+### Städte
+
+
+![[Herunterladen (1).jpeg]]
+
+![[Herunterladen (15).jpeg]]
+
+![[Herunterladen (17).jpeg]]

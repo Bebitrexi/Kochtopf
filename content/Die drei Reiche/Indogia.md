@@ -19,7 +19,8 @@ Haupstadt: Yloit
 ![[Oase.jpeg]]
 
 
-### Architektur (Hauptstadt)
+### Städte
+
 
 ![[City-Bazaare.jpg]]
 
