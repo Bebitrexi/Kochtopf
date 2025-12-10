@@ -12,11 +12,13 @@ Haupstadt: Yloit
 ### Klima und Vegetation
 
 - subtropisches Klima
-- Wüste mit vereinzelten Oasen und Sandsteinfelsen
+- Wüste mit Sandsteinfelsen und vereinzelten Oasen
 
 ![[landscape2.jpg]]
 
 ![[Oase.jpeg]]
+
+![[Herunterladen (16).jpeg]]
 
 
 ### Städte
@@ -26,6 +28,5 @@ Haupstadt: Yloit
 
 ![[City-Hafen2.jpg]]
 
-![[City-Hafen.jpg]]
 
 ![[City.jpg]]

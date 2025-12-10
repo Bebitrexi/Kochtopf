@@ -11,7 +11,7 @@ Haupstadt: Blaastead
 ### Klima und Vegetation
 
 - subpolares Klima im Süden und gemäßigtes Klima im Norden der Inseln
-- Nadelwälder und viele tote "Landschaften"
+- beeindruckende Berglandschaften mit Nadelwäldern und vereinzelte "tote" Landflächen
 
 ![[mountains.jpeg]]
 

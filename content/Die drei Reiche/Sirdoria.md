@@ -7,8 +7,8 @@ Haupstädte: Sivel, Tover
 
 ### Klima und Vegetation
 
-- gemäßigtes Klima
-- überwiegend Laubwälder mit langen Wiesenlandschaften dazwischen
+- größtenteils gemäßigtes Klima
+- überwiegend Laubwälder mit weitflächigen Wiesenlandschaften dazwischen
 
 ![[forest.jpeg]]
 
@@ -21,6 +21,7 @@ Haupstädte: Sivel, Tover
 
 ![[Herunterladen (13).jpeg]]
 
-![[Hafen.jpeg]]
+![[Herunterladen (20).jpeg]]
 
 ![[Dorf.jpeg]]
+
