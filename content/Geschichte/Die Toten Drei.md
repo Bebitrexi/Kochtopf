@@ -1,8 +1,8 @@
 ### Bane, Baahl und Myrkul
 
-#### *Götter der Tyrannei, des Mordes und Todes*
+#### *Götter der Tyrannei, des Mordes und Todes* 
 
-![[die toten drei.jpg]]
+![[die toten drei.png]]
 
 ### Symbole
 
