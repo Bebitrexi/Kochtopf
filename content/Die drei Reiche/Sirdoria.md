@@ -8,7 +8,7 @@ Haupstädte: Sivel, Tover
 ### Klima und Vegetation
 
 - größtenteils gemäßigtes Klima
-- überwiegend Laubwälder mit abwechselnden weitflächigen Wiesen- und Hügellandschaften; Berg verstärkt im Süden der Inseln
+- überwiegend Laubwälder mit abwechselnden weitflächigen Wiesen- und Hügellandschaften; Berge verstärkt im Süden der Inseln
 
 ![[forest.jpeg]]
 
