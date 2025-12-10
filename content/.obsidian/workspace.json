@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Götter (draft)/Die Toten Drei.md",
+                "file": "Geschichte/Die Toten Drei.md",
                 "mode": "source",
                 "source": false
               },
@@ -180,21 +180,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "852315d61882799c",
+  "active": "b37329986e904e65",
   "lastOpenFiles": [
+    "Götter (draft)/Torm.md",
+    "Götter (draft)/Umberlee.md",
+    "Götter (draft)/Mask.md",
+    "Götter (draft)/Leira.md",
+    "Götter (draft)/Cyric.md",
+    "Götter (draft)/Bahamut.md",
+    "Geschichte/Die Toten Drei.md",
+    "Götter (draft)",
     "NAVIC.md",
     "Untitled.md",
     "Index.md",
     "Organisationen (draft)/Krallen der Gerechtigkeit.md",
     "Geschichte/BBM.md",
-    "Götter (draft)/Die Toten Drei.md",
     "Die drei Reiche/Sirdoria.md",
-    "Götter (draft)/Torm.md",
-    "Götter (draft)/Cyric.md",
-    "Götter (draft)/Leira.md",
-    "Götter (draft)/Umberlee.md",
-    "Götter (draft)/Mask.md",
-    "Götter (draft)/Bahamut.md",
     "bilder/3c50e44ec7bdf6814b16e671c473e8e7.jpg",
     "Das Ereignis™.md",
     "bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.webp",
@@ -214,7 +215,7 @@
     "conflict-files-obsidian-git.md",
     "Organisationen (draft)",
     "Das BBM.md",
-    "Götter (draft)",
+    "Götter",
     "Die drei Reiche",
     "Geschichte",
     "NAVIC - Karte.md",
@@ -225,9 +226,7 @@
     "bilder/Untitled.md",
     "NAVIC",
     "NAVIC/Untitled.base",
-    "NAVIC",
     "draft.md",
-    "Untitled.canvas",
-    "2025-10-12.md"
+    "Untitled.canvas"
   ]
 }
