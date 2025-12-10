@@ -21,7 +21,7 @@ Haupstadt: Yloit
 ![[Herunterladen (16).jpeg]]
 
 
-### Städte
+### Städte und Architektur
 
 
 ![[City-Bazaare.jpg]]

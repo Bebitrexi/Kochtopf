@@ -20,7 +20,7 @@ Haupstadt: Blaastead
 ![[Herunterladen (14).jpeg]]
 
 
-### Städte
+### Städte und Architektur
 
 
 ![[Herunterladen (15).jpeg]]

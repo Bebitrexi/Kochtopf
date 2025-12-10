@@ -5,7 +5,7 @@ draft: "true"
 
 ![[Leira.jpg]]
 
-- gar keine Anbeter mehr -> [[Mask]] Anbeter ([[Mask]] hat Leira an [[Cyric]] verraten) werden die Gruppe allerdings zu Leira führen, um ihre alte Schuld zu begleichen und sich ebenfalls aus den [[Die toten Drei]] Fängen zu befreien
+- gar keine Anbeter mehr -> [[Mask]] Anbeter ([[Mask]] hat Leira an [[Cyric]] verraten) werden die Gruppe allerdings zu Leira führen, um ihre alte Schuld zu begleichen und sich ebenfalls aus den [[Die Toten Drei]] Fängen zu befreien
 
 #### Relevanz für Gruppe
 
