@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Die drei Reiche/Sirdoria.md",
+                "file": "Götter (draft)/Die Toten Drei.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sirdoria"
+              "title": "Die Toten Drei"
             }
           }
         ]
@@ -182,8 +182,14 @@
   },
   "active": "852315d61882799c",
   "lastOpenFiles": [
+    "NAVIC.md",
+    "Untitled.md",
+    "Index.md",
+    "Organisationen (draft)/Krallen der Gerechtigkeit.md",
+    "Geschichte/BBM.md",
+    "Götter (draft)/Die Toten Drei.md",
+    "Die drei Reiche/Sirdoria.md",
     "Götter (draft)/Torm.md",
-    "Geschichte/Die Toten Drei.md",
     "Götter (draft)/Cyric.md",
     "Götter (draft)/Leira.md",
     "Götter (draft)/Umberlee.md",
@@ -194,13 +200,9 @@
     "bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.webp",
     "bilder/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
     "Geschichte/Krieg der Götter.md",
-    "Geschichte/BBM.md",
     "bilder/die toten drei.jpg",
     "bilder/Die toten Drei.jpg",
     "bilder/Die Toten Drei.webp",
-    "Index.md",
-    "NAVIC.md",
-    "Die drei Reiche/Sirdoria.md",
     "Die drei Reiche/Vaylpis.md",
     "Die drei Reiche/Indogia.md",
     "bilder/Herunterladen (20).jpeg",
@@ -209,7 +211,6 @@
     "bilder/lanscape.jpeg",
     "Charaktere (draft)/Morena (Line).md",
     "Charaktere (draft)",
-    "Organisationen (draft)/Krallen der Gerechtigkeit.md",
     "conflict-files-obsidian-git.md",
     "Organisationen (draft)",
     "Das BBM.md",
