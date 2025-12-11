@@ -7,7 +7,7 @@
 
 
 Alle vier Gefährten sollten auf brutalste Weise dem Gott Bhaal geopfert werden nach dem man sie unerwünscht im Tempel fand. Allerdings fanden sie schließlich einen gemeinsam Fluchtplan um diesem schrecklichen Schicksal zu entkommen. 
-Vier Tage schipperten sie schließlich ziellos auf dem Meer umher, bis schließlich jemand "Land in Sicht!" schrie.
+Vier Tage schipperten sie ziellos auf dem Meer umher, bis schließlich jemand "Land in Sicht!" schrie.
 
 To be continued...
 
