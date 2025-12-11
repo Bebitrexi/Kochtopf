@@ -1,6 +1,6 @@
 ### *The adventure begins*
 
-- Jahr: 05.09.1750
+- Datum: 05.09.1750
 - Treffpunkt eurer Gruppe: Auf einem Schiff voll mit Anhängern des Gottes Bhaal. Sozusagen ein schippernder Tempel.
 
 	- Bhaal = Gott der Folter und des Mordes ([[Die Toten Drei]])
