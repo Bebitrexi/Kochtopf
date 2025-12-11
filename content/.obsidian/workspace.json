@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Die Toten Drei.md",
+                "file": "Das Ereignis™.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Die Toten Drei"
+              "title": "Das Ereignis™"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "b37329986e904e65",
   "lastOpenFiles": [
-    "Geschichte/Das BBM.md",
     "Geschichte/Die Toten Drei.md",
+    "Geschichte/Das BBM.md",
     "Geschichte/Krieg der Götter.md",
     "Götter (draft)/Leira.md",
     "Das Ereignis™.md",
