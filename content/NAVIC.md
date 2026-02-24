@@ -1,6 +1,6 @@
 ***-eine zersplitterte Welt der Endlosigkeit-***
 
-![[NAVIC.png]]
+![[NAVIC.jpg]]
 
 ## Die drei Reiche
 

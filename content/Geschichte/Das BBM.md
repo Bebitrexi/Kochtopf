@@ -3,6 +3,6 @@
 
 ### Wichtige Infos
 
-- Beginn: 1375
+- Beginn: 1370
 - Konflikt hält bis heute an
 - Bhaal, Bane und Myrkul = [[Die Toten Drei]]
