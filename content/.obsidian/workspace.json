@@ -25,11 +25,13 @@
             "id": "0743387cbeffa47f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "bilder/NAVIC.jpg"
+                "file": "NAVIC.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
+              "icon": "lucide-file",
               "title": "NAVIC"
             }
           }
@@ -193,12 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "852315d61882799c",
+  "active": "0743387cbeffa47f",
   "lastOpenFiles": [
+    "Das Ereignis™.md",
+    "index.md",
     "NAVIC.md",
     "bilder/NAVIC.jpg",
     "Götter (draft)/Leira.md",
-    "Das Ereignis™.md",
     "Organisationen (draft)/Krallen der Gerechtigkeit.md",
     "Index.md",
     "Charaktere (draft)/Arethi (Corbi).md",
